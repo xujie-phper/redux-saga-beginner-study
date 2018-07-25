@@ -1,7 +1,7 @@
 # redux-saga-beginner-study
 Companion Repo for [Redux/Redux-saga beginner tutorial](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
 
-# Instructions#2A3343
+# Instructions
 
 Setup
 
