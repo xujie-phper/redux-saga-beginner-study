@@ -16,7 +16,7 @@ const store = createStore(
     applyMiddleware(sagaMiddleware)
 );
 
-
+//必须在store生成之后
 sagaMiddleware.run(rootSaga);
 
 const action = type => store.dispatch({type});
